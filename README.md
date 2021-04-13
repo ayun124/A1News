@@ -5,7 +5,7 @@
 
 _Chris Carson was drafted in the 7th round by Seattle in the 2017 NFL Draft. In his career in Seattle, he has accumulated 3,270 Rushing yards and 21 rushing touchdowns._
 
-![Chris Carson](images/chris-carson-seahawks.jpg)
+![Chris Carson](chris-carson-seahawks.jpg)
 
 
 ## Additional Information
